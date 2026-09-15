@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building production mobile and web applications with Flutter, React, Next.js, and modern backend technologies.
+  Building production mobile and full-stack applications with Flutter, React, Next.js, Node.js, and modern backend technologies.
 </p>
 
 <p align="center">
@@ -20,47 +20,60 @@
 
 ## About
 
-I'm a software engineer focused primarily on **Flutter and cross-platform mobile development**, with experience building and deploying production applications for real users.
+I'm a software engineer specializing in **Flutter and cross-platform mobile development**, with professional experience building, deploying, and maintaining production applications.
 
-I've worked across mobile, web, backend integrations, real-time systems, AI-powered features, monetization, and deployment.
+I've also worked across the full stack, building web applications, backend services, APIs, real-time systems, database-driven platforms, and AI-powered products.
 
 * 2+ years of professional software development experience
-* Production Flutter applications with **10K+ and 50K+ users/downloads**
-* Experience integrating **Generative AI** for document processing, summarization, transcription, translation, and image generation
-* Built applications using **REST APIs, WebSockets, Firebase, Supabase, MongoDB, and PostgreSQL**
-* Experience with **BLoC, Cubit, Provider, Clean Architecture, and repository-based architecture**
-* Full-stack experience with **React, React Native, Next.js, Node.js, and TypeScript**
-* Experience with **AdMob, Play Billing, RevenueCat, CI/CD, and App Store / Play Store deployment**
-
-Currently focused on becoming a stronger **full-stack engineer**, with particular emphasis on backend development, system design, scalable architecture, and production engineering.
+* Production mobile applications with **10K+ and 50K+ users/downloads**
+* Flutter applications for Android and iOS
+* Full-stack applications using **React, Next.js, Node.js, and Express.js**
+* Backend and database development with **MongoDB, PostgreSQL, MySQL, Firebase, and Supabase**
+* AI-powered features including document processing, summarization, transcription, translation, OCR, and image generation
+* Real-time applications using **WebSockets and Firebase**
+* Authentication using **JWT, Firebase Authentication, and secure storage**
+* Monetization using **AdMob, Play Billing, and RevenueCat**
+* Production deployment using **Fastlane, GitHub Actions, Vercel, and SSH**
 
 ---
 
 ## Tech Stack
 
-### Mobile
+### Mobile Development
 
 `Flutter` `Dart` `React Native` `Expo` `Android` `iOS`
 
-### Frontend
+### Frontend & Web
 
-`React` `Next.js` `TypeScript` `JavaScript`
+`React` `Next.js` `TypeScript` `JavaScript` `HTML` `CSS` `Bootstrap`
 
-### Backend & Databases
+### Backend
 
-`Node.js` `Express.js` `Firebase` `Supabase` `MongoDB` `PostgreSQL`
+`Node.js` `Express.js` `REST APIs` `WebSockets` `JWT` `OAuth`
+
+### Databases & Backend Services
+
+`MongoDB` `PostgreSQL` `MySQL` `Firebase` `Supabase` `Firestore`
 
 ### Architecture & State Management
 
 `BLoC` `Cubit` `Provider` `Clean Architecture` `Repository Pattern`
 
-### APIs & Services
+### APIs & Integrations
 
-`REST APIs` `WebSockets` `JWT` `FCM` `Google Maps` `Cloudinary`
+`Dio` `REST APIs` `WebSockets` `FCM` `Google Maps` `Cloudinary`
 
-### Monetization & Deployment
+### AI & Product Features
 
-`AdMob` `Play Billing` `RevenueCat` `Fastlane` `GitHub Actions` `Vercel` `SSH`
+`Generative AI` `OCR` `Document Processing` `Text-to-Image` `Summarization` `Transcription` `Translation`
+
+### Monetization
+
+`AdMob` `Play Billing` `RevenueCat`
+
+### DevOps & Deployment
+
+`Git` `GitHub Actions` `Fastlane` `SSH` `Vercel` `CI/CD`
 
 ---
 
@@ -72,11 +85,12 @@ Currently focused on becoming a stronger **full-stack engineer**, with particula
 
 Production document scanning application with **10K+ downloads**.
 
-* Document scanning, smart cropping, and PDF generation
+* Document scanning and smart cropping
 * OCR and document text extraction
-* AI-powered summarization and document chat
-* Translation and multilingual document processing
-* Firebase-based application services
+* PDF generation
+* AI-powered document summarization and chat
+* Translation and multilingual processing
+* Firebase integration
 
 ### AI Tattoo Maker
 
@@ -88,7 +102,7 @@ AI-powered tattoo generation and visualization application with **50K+ users**.
 * AI-powered tattoo visualization and try-on
 * Image processing and generation workflows
 * In-app purchases and AdMob monetization
-* Remote configuration and analytics
+* Remote configuration
 * Support for 11 languages
 
 ### iMechano
@@ -112,6 +126,7 @@ Community platform built for users in the Netherlands.
 
 * React Native mobile application
 * Next.js administration platform
+* REST API integration
 * Authentication and authorization
 * News, events, and business directory
 * Content moderation and CMS workflows
@@ -120,20 +135,20 @@ Community platform built for users in the Netherlands.
 
 ### GuardSoft
 
-**React · TypeScript · Workforce Management**
+**React · Bootstrap · JavaScript**
 
 Security workforce management platform designed around operational workflows.
 
 * Employee and guard management
 * Rostering and scheduling
-* Role-based access control
 * Workforce tracking
+* Role-based access control
 * Payroll-related workflows
 * PDF and Excel exports
 
 ### POS & Inventory System
 
-**Next.js · React · PostgreSQL · Spring Boot**
+**Next.js · React · Spring Boot · PostgreSQL**
 
 Full-stack point-of-sale and inventory management platform.
 
@@ -146,22 +161,7 @@ Full-stack point-of-sale and inventory management platform.
 
 ---
 
-## Engineering Focus
-
-I'm currently strengthening my knowledge beyond mobile development, particularly in:
-
-* Backend architecture
-* Database design and optimization
-* System design
-* Distributed and real-time systems
-* Authentication and authorization
-* API design
-* Docker and deployment
-* Scalable full-stack application architecture
-
----
-
-## GitHub
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullah2310ishaq&show_icons=true&hide_border=true" height="165" />
