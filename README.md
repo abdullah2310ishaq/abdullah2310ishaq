@@ -1,99 +1,185 @@
-<h1 align="center">Hi 👋, I'm Abdullah Ishaq</h1>
-<h3 align="center">Full Stack Mobile Engineer | Flutter Developer | Building AI-powered & Full Stack Apps</h3>
+<h1 align="center">Abdullah Ishaq</h1>
 
 <p align="center">
-  <a href="https://abdullahishaac.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:abdullahishaq2310@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/abdullah2310ishaq"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-### 🚀 About Me
-
-- 🎯 I build **cross-platform mobile apps** with Flutter and **full stack web apps** with React / Next.js / Node.js
-- 📱 Currently a **Flutter Developer** shipping production apps with **10K+ and 50K+ downloads**, integrating Generative AI (summarization, transcription, translation, OCR in 10+ languages, text-to-image), in-app purchases, and AdMob
-- 🌐 Also work as a **Full Stack Mobile Engineer**, building real-time apps (order tracking, admissions portals) and full stack web platforms (rostering/workforce management, POS & inventory systems, community platforms)
-- 🏗️ Comfortable across the stack: **Flutter/Dart, React, React Native/Expo, Next.js, Node.js, Firebase, Supabase, MongoDB, PostgreSQL**
-- ⚙️ Experience with **Clean Architecture, BLoC/Cubit/Provider/GetX, REST APIs, WebSockets, CI/CD (Fastlane + GitHub Actions), Play Store/App Store deployment**
-- 📚 Currently focused on writing cleaner, more scalable code and sharpening full stack + system design skills
-
----
-
-### 🛠️ Tech Stack
-
-**Mobile Development**
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
-</p>
-
-**Frontend / Web**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-**Backend / Databases**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-**Architecture & Tools**
-<p>
-  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clean_Architecture-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fastlane-00d371?style=for-the-badge&logo=fastlane&logoColor=black"/>
-</p>
-
----
-
-### 🌟 Featured Projects
-
-#### 📱 Mobile / AI-Powered Apps
-- **AI Document Scanner** — Flutter · Google ML Kit · Firebase · GenAI — 10K+ downloads. OCR, smart crop, edge detection, PDF generation, translation, document chat & summarization.
-- **AI Tattoo Maker** — Flutter · BLoC/Provider · Firebase · Play Billing · GenAI — 50K+ users. Text-to-image generation, virtual try-on, live camera preview, Dart isolates for background processing, localized in 11 languages.
-- **iMechanic** — On-demand automotive/mechanic-services platform with separate customer and mechanic/admin apps. BLoC, WebSockets, FCM, Firebase, Google Maps, real-time job tracking, invoicing.
-- **Digital Healthcare Platform (FMC)** — In-house platform for a medical college and hospital, with separate workflows for doctors, control staff, and field-based health workers. GetX, Dio, REST APIs, offline-first sync.
-
-#### 🌐 Full Stack Web Projects
-- **Z Buddy** — Netherlands community app: React Native/Expo mobile app (34 screens) + Next.js 15 App Router backend/admin (52 API routes), MongoDB, JWT/Firebase auth, Cloudinary.
-- **GuardSoft** — Security workforce management platform (React/Bootstrap) — rostering, guard tracking, payroll, role-based access control, PDF/Excel export.
-- **Real-Time POS & Inventory System** — Next.js 16 / React 19 point-of-sale and inventory management system with real-time updates.
-- **BridgeIT** (Final Year Project) — Platform connecting university students with employers, built with Next.js and .NET.
-
-> 🔗 Explore more on my [repositories](https://github.com/abdullah2310ishaq?tab=repositories) — 30+ projects including `music_player_local`, `afghan_telecom_app`, `doctor_app`, `shake_wake_app`, and `message_app`.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah2310ishaq&show_icons=true&theme=radical" alt="Abdullah's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah2310ishaq&theme=radical" alt="Abdullah's GitHub Streak" height="165"/>
+  <strong>Flutter Developer · Full Stack Mobile Engineer</strong>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah2310ishaq&layout=compact&theme=radical" alt="Top Languages"/>
+  Building production mobile and web applications with Flutter, React, Next.js, and modern backend technologies.
+</p>
+
+<p align="center">
+  <a href="https://abdullahishaac.vercel.app">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/abdullah2310ishaq">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:abdullahishaq2310@gmail.com">Email</a>
 </p>
 
 ---
 
-### 📫 Let's Connect
+## About
+
+I'm a software engineer focused primarily on **Flutter and cross-platform mobile development**, with experience building and deploying production applications for real users.
+
+I've worked across mobile, web, backend integrations, real-time systems, AI-powered features, monetization, and deployment.
+
+* 2+ years of professional software development experience
+* Production Flutter applications with **10K+ and 50K+ users/downloads**
+* Experience integrating **Generative AI** for document processing, summarization, transcription, translation, and image generation
+* Built applications using **REST APIs, WebSockets, Firebase, Supabase, MongoDB, and PostgreSQL**
+* Experience with **BLoC, Cubit, Provider, Clean Architecture, and repository-based architecture**
+* Full-stack experience with **React, React Native, Next.js, Node.js, and TypeScript**
+* Experience with **AdMob, Play Billing, RevenueCat, CI/CD, and App Store / Play Store deployment**
+
+Currently focused on becoming a stronger **full-stack engineer**, with particular emphasis on backend development, system design, scalable architecture, and production engineering.
+
+---
+
+## Tech Stack
+
+### Mobile
+
+`Flutter` `Dart` `React Native` `Expo` `Android` `iOS`
+
+### Frontend
+
+`React` `Next.js` `TypeScript` `JavaScript`
+
+### Backend & Databases
+
+`Node.js` `Express.js` `Firebase` `Supabase` `MongoDB` `PostgreSQL`
+
+### Architecture & State Management
+
+`BLoC` `Cubit` `Provider` `Clean Architecture` `Repository Pattern`
+
+### APIs & Services
+
+`REST APIs` `WebSockets` `JWT` `FCM` `Google Maps` `Cloudinary`
+
+### Monetization & Deployment
+
+`AdMob` `Play Billing` `RevenueCat` `Fastlane` `GitHub Actions` `Vercel` `SSH`
+
+---
+
+## Featured Projects
+
+### AI Document Scanner
+
+**Flutter · Firebase · OCR · Generative AI**
+
+Production document scanning application with **10K+ downloads**.
+
+* Document scanning, smart cropping, and PDF generation
+* OCR and document text extraction
+* AI-powered summarization and document chat
+* Translation and multilingual document processing
+* Firebase-based application services
+
+### AI Tattoo Maker
+
+**Flutter · Firebase · Generative AI · Play Billing · AdMob**
+
+AI-powered tattoo generation and visualization application with **50K+ users**.
+
+* Text-to-image tattoo generation
+* AI-powered tattoo visualization and try-on
+* Image processing and generation workflows
+* In-app purchases and AdMob monetization
+* Remote configuration and analytics
+* Support for 11 languages
+
+### iMechano
+
+**Flutter · BLoC · WebSockets · Firebase · FCM · Google Maps**
+
+On-demand automotive and mechanic-services platform with separate customer and mechanic/admin applications.
+
+* Real-time job tracking
+* WebSocket-based communication
+* Push notifications
+* Location and map-based workflows
+* Invoicing and service management
+* Firebase integration
+
+### Z Buddy
+
+**React Native · Expo · Next.js · MongoDB · JWT · Cloudinary**
+
+Community platform built for users in the Netherlands.
+
+* React Native mobile application
+* Next.js administration platform
+* Authentication and authorization
+* News, events, and business directory
+* Content moderation and CMS workflows
+* Push notifications
+* English and Dutch localization
+
+### GuardSoft
+
+**React · TypeScript · Workforce Management**
+
+Security workforce management platform designed around operational workflows.
+
+* Employee and guard management
+* Rostering and scheduling
+* Role-based access control
+* Workforce tracking
+* Payroll-related workflows
+* PDF and Excel exports
+
+### POS & Inventory System
+
+**Next.js · React · PostgreSQL · Spring Boot**
+
+Full-stack point-of-sale and inventory management platform.
+
+* Product and inventory management
+* Sales and order workflows
+* Multi-shop data separation
+* Real-time updates
+* Administrative dashboards
+* REST API integration
+
+---
+
+## Engineering Focus
+
+I'm currently strengthening my knowledge beyond mobile development, particularly in:
+
+* Backend architecture
+* Database design and optimization
+* System design
+* Distributed and real-time systems
+* Authentication and authorization
+* API design
+* Docker and deployment
+* Scalable full-stack application architecture
+
+---
+
+## GitHub
 
 <p align="center">
-  <a href="https://abdullahishaac.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-abdullahishaac.vercel.app-000?style=flat-square"/></a><br/>
-  <a href="mailto:abdullahishaq2310@gmail.com"><img src="https://img.shields.io/badge/Email-abdullahishaq2310%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullah2310ishaq&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah2310ishaq&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah2310ishaq&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://abdullahishaac.vercel.app">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/abdullah2310ishaq">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:abdullahishaq2310@gmail.com">abdullahishaq2310@gmail.com</a>
 </p>
