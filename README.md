@@ -1,7 +1,7 @@
 <h1 align="center">Abdullah Ishaq</h1>
 
 <p align="center">
-  <strong>Flutter Developer · Full Stack Mobile Engineer</strong>
+  <strong>Full Stack Engineer</strong>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ I'm a software engineer specializing in **Flutter and cross-platform mobile deve
 
 I've also worked across the full stack, building web applications, backend services, APIs, real-time systems, database-driven platforms, and AI-powered products.
 
-* 2+ years of professional software development experience
+
 * Production mobile applications with **10K+ and 50K+ users/downloads**
 * Flutter applications for Android and iOS
 * Full-stack applications using **React, Next.js, Node.js, and Express.js**
