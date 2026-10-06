@@ -8,13 +8,13 @@
   Building production mobile and full-stack applications with Flutter, React, Next.js, Node.js, and modern backend technologies.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://abdullahishaac.vercel.app">Portfolio</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/abdullah2310ishaq">GitHub</a>
   &nbsp;·&nbsp;
   <a href="mailto:abdullahishaq2310@gmail.com">Email</a>
-</p>
+</p> -->
 
 ---
 
